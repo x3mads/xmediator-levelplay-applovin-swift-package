@@ -18,7 +18,7 @@ coexist.
 Add this repository as a package dependency and select the
 `LevelPlayAppLovinAdapter` product instead of LevelPlay's `AppLovinAdapter`.
 Versions match the LevelPlay adapter versions one-to-one: version
-`5.8.0` of this package uses LevelPlay adapter `5.8.0`.
+`5.9.0` of this package uses LevelPlay adapter `5.9.0`.
 
 ## License
 
