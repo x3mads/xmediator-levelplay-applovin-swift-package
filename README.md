@@ -8,8 +8,8 @@ use the LevelPlay AppLovin adapter together with Google's
 ## Usage
 
 Add this repository (`https://github.com/x3mads/xmediator-levelplay-applovin-swift-package.git`) and select the `LevelPlayAppLovinAdapter` product.
-Version `5.8.0` of this package corresponds to LevelPlay adapter
-`5.8.0` (<https://github.com/ironsource-mobile/LevelPlay-AppLovin-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
+Version `5.9.0` of this package corresponds to LevelPlay adapter
+`5.9.0` (<https://github.com/ironsource-mobile/LevelPlay-AppLovin-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
 AppLovin adapter package: both contain the same adapter binary.
 
 ## Why this package exists, and why it is built this way
